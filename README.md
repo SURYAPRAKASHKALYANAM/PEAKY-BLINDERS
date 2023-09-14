@@ -125,7 +125,7 @@
 ![3](https://github.com/SURYAPRAKASHKALYANAM/PEAKY-BLINDERS/assets/115471106/a697f1b6-8120-444f-b5e6-1a6d85f4ad59)
 
 <br>
- <a href="https://peakyblind.onrender.com/" target="_blank">DEPLOYED BY USING FLASK</a>
+ <a href="https://peakyblind.onrender.com/" target="_blank" >DEPLOYED BY USING FLASK</a>
 
   <H3>HOPE YOU UNDERSTAND</H3>  
      
